@@ -7,10 +7,12 @@
 	
 	
 	
+	
 	<bean id="user" class="com.baoxu.model.User">
 		<property name="userName" value="张三"></property>
 	</bean>
 	
 	
+		
 		
 </beans>
