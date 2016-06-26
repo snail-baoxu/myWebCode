@@ -11,6 +11,7 @@ package com.baoxu.controller;
  * @version  
  * @since JDK 1.7
  */
+
 public class LoginController {
 	
 	public String loginIndex(){

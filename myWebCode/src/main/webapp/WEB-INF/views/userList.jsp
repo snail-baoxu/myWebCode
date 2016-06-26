@@ -14,6 +14,7 @@
 				<td>用户名称</td>
 				<td>用户年龄</td>
 			</tr>
+			
 		<c:forEach items="${userList }" var="user">
 			<tr>
 				<td>${user.userName }</td>

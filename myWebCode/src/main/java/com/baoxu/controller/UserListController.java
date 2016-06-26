@@ -26,6 +26,7 @@ public class UserListController {
 		user2.setUserName("李四");
 		user2.setAge(19);
 		user2.setSex(2);
+		
 		userList.add(user1);
 		userList.add(user2);
 		
